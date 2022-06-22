@@ -15,6 +15,7 @@ My coding journey started in 2021. I have Participated in [#100DaysOfCodeDay](ht
 
 
 - 🌱 I’m currently learning Mobile App development
+- 🌱 currently working on [My Blog](https://eliasndungu.github.io/eliasndungu.io/)
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about python, JavaScript, React.js, Java, C / C++
 - 📫 reach me: eliasndungu254@gmail.com
