@@ -1,6 +1,6 @@
 # Hi there 👋, I’m [Elias Ndungu](https://twitter.com/ndungu_elias45)
 
-## A Passionate Self-taught [Software Engineer](https://en.wikipedia.org/wiki/Software_engineering), [Climate  Activist](https://en.wikipedia.org/wiki/Climate_movement)
+## A Passionate [Software Engineer](https://en.wikipedia.org/wiki/Software_engineering), [Climate  Activist](https://en.wikipedia.org/wiki/Climate_movement)
 ---
 My coding journey started in 2021. I have Participated in [#100DaysOfCodeDay](https://www.100daysofcode.com/) challenge and doing
  other interesting things that relate to coding. Computer Science has helped me solve real life problems that relate to climate change and many more, Join me in [#fridaysforfuture](https://fridaysforfuture.org/) > [**Greta Thunberg**](https://en.wikipedia.org/wiki/Greta_Thunberg)
