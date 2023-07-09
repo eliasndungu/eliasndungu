@@ -2,8 +2,7 @@
 
 ## A Passionate [Software Engineer](https://en.wikipedia.org/wiki/Software_engineering), [Climate  Activist](https://en.wikipedia.org/wiki/Climate_movement)
 ---
-I have Participated in [#100DaysOfCodeDay](https://www.100daysofcode.com/) challenge and doing
- other interesting things that relate to coding. Computer Science has helped me solve real life problems that relate to climate change and many more, Join me in [#fridaysforfuture](https://fridaysforfuture.org/) > [**Greta Thunberg**](https://en.wikipedia.org/wiki/Greta_Thunberg)
+As a computer scientist, I am driven by a deep passion to leverage my coding skills and expertise to shape the world for a better future. With a relentless curiosity and a commitment to innovation, I strive to push the boundaries of technology and explore its potential to solve complex problems. Through my work, I aim to create meaningful and impactful solutions that have a positive impact on society. Whether it's developing cutting-edge software applications, designing intelligent algorithms, or contributing to transformative projects, I am dedicated to making a difference. Together, let's harness the power of coding to drive positive change and shape a brighter tomorrow.
 
 ---
 <br />
