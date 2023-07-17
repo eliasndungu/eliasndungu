@@ -16,7 +16,7 @@ As a computer scientist, I am driven by a deep passion to leverage my coding ski
 - 🌱 I’m currently learning Mobile App development
 - 🌱 currently working on [My Blog](https://eliasndungu.github.io/eliasndungu.io/)
 - 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about python, C-sharp, Kotlin, Java, C / C++
+- 💬 Ask me about python, C-sharp, Kotlin, Java, C / C++, Unity, Unreal 5
 - 📫 reach me: eliasndungu254@gmail.com
 - >⚡ Fun fact: “If you think your users are idiots, only idiots will use it.”
  -- *Linus Torvalds*
@@ -50,7 +50,7 @@ As a computer scientist, I am driven by a deep passion to leverage my coding ski
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Github Pages](https://img.shields.io/badge/GitHub_pages-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Github Gist stars](https://img.shields.io/github/gist/stars/:gistId)
+
 
 
 
