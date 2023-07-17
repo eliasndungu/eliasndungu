@@ -50,4 +50,7 @@ As a computer scientist, I am driven by a deep passion to leverage my coding ski
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Github Pages](https://img.shields.io/badge/GitHub_pages-100000?style=for-the-badge&logo=github&logoColor=white)
 
+![Github Gist stars](https://img.shields.io/github/gist/stars/:gistId)
+
+
 
