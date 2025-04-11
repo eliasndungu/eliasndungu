@@ -67,7 +67,7 @@ Neuracraft is an AI-powered financial technology company specializing in:
 ## 🌱 Current Focus
 - Expanding Neuracraft's data analytics capabilities
 - Developing mobile applications for financial management
-- Building [My Personal Blog](https://eliasndungu.github.io/eliasndungu.io/)
+- Neuracraft [My Personal Blog](https://eliasndungu.github.io/eliasndungu.io/)
 
 ## 📫 Connect With Me
 
